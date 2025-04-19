@@ -1,7 +1,7 @@
 import pynput.keyboard
 import threading
 import smtplib
-import os 
+import os
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
